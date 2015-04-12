@@ -1,0 +1,40 @@
+.jumbotron {
+	height: 400px;
+	background-image: url("img/gallery_banner.jpg");
+	background-size: cover;
+	color: #fff;
+}
+ul.nav-pills li  {
+	margin-left: 30px;
+	margin-right: 40px;
+}
+.nav nav-pills{
+	margin-top: 60px;
+}
+td {
+	width: 300px;
+}
+.btn {
+	background-color: #44d0d0;
+}
+span.pull-left {
+	font-size: 22px;
+}
+span.pull-right {
+	font-size: 20px;
+}
+.clearfix {
+	clear: both;
+}
+.tagline{
+	font-size: 24px;
+	position: relative;
+	top: 15px;
+}
+footer{
+	background-color: grey;
+	padding-top: 30px;
+}
+header{
+	background-color: grey;
+}
